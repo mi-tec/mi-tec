@@ -20,7 +20,7 @@ Creating a Chat App using **ReactJS** and **SocketIO** with **Firebase Phone Aut
 	 - Repo - https://github.com/mi-tec/social-media-app
 	 - **Note: If testing this use an Alternative Gmail account and still there are few bugs need to be fixed. Due to lack of time couldn't complete :)**
 
- - BMI Calculator - https://calc-bmi.herokuapp.com/
+ - BMI Calculator - https://calbmi.herokuapp.com/
 	 - Developed using ReactJS & Tailwind.
 	 - No API used created.
 	 - Hosted inHeroku
