@@ -6,11 +6,10 @@
 
 ## Following are the few projects I have done and doing on while i'm free and to improve my knowledge
 
-### Currently Working
+### Rust
 
-Creating a Chat App using **ReactJS** and **SocketIO** with **Firebase Phone Authentication** and **Firestore Collection**. First Developing Client Side with authentication
- - URL - https://stellar-chimera-3742e8.netlify.app/
- - Client Repo - https://github.com/mi-tec/react-chat-app-client
+ - A Simple bank application written using rust
+	- https://github.com/mi-tec/bank-app
 
 ### Few ReactJS / Javascript Projects I have
 
